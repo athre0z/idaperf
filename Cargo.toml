@@ -1,0 +1,11 @@
+[package]
+name = "idaperf"
+version = "0.1.0"
+authors = ["Joel Höner <athre0z@zyantific.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/athre0z/idaperf"
+readme = "README.md"
+
+[dependencies]
+regex = "1"
